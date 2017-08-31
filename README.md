@@ -1,2 +1,2 @@
 # tryGit
-learning git
+learning git is easy right?
